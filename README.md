@@ -1,3 +1,4 @@
 # hello-word
 Mi primer programa en GitHub
-Este es mi primer programa de GitHub, espero aprender mucho
+Este es Esto estaba mal escrito
+Gorda revisa que esta línea este bien
